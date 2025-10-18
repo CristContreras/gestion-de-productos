@@ -4,6 +4,10 @@ Este proyecto forma parte de la Pre-Entrega del Proyecto Integrador del curso.
 El objetivo es aplicar los conocimientos aprendidos sobre listas, bucles, condicionales y validaciones de entrada mediante el desarrollo de un sistema básico de gestión de productos.
 
 
+
+
+
+
 🧠 Funcionalidades principales
 
 - Agregar productos: permite ingresar nombre, categoría y precio (sin centavos).
