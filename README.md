@@ -19,12 +19,12 @@ El objetivo es aplicar los conocimientos aprendidos sobre listas, bucles, condic
 
 Lenguaje: Python 3
 
-Uso de:
+  Uso de:
 
-Listas para almacenar los productos
+  Listas para almacenar los productos
 
-Bucles while y for
+  Bucles while y for
 
-Condicionales if / else
+  Condicionales if / else
 
-Validaciones de datos de entrada
+  Validaciones de datos de entrada
