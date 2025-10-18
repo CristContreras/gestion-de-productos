@@ -156,7 +156,6 @@ def procesar_eliminar_producto(lista: list) -> None:
     print("4. Eliminar producto\n")
     if lista:
         nombre = pedir_string("Ingrese nombre del producto: ").strip().title()
-        #sublista = obtener_producto(lista, nombre)
         indice_producto = obtener_indice_producto(lista, nombre)
         if indice_producto is not None:
             eliminar_producto(lista, indice_producto)
