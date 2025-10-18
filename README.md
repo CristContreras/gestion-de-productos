@@ -5,15 +5,15 @@ El objetivo es aplicar los conocimientos aprendidos sobre listas, bucles, condic
 
 🧠 Funcionalidades principales
 
-- ➕ Agregar productos: permite ingresar nombre, categoría y precio (sin centavos).
+- Agregar productos: permite ingresar nombre, categoría y precio (sin centavos).
 
-- 👀 Mostrar productos: visualiza todos los productos registrados en forma ordenada y numerada.
+- Mostrar productos: visualiza todos los productos registrados en forma ordenada y numerada.
 
-- 🔍 Buscar productos: busca un producto por su nombre y muestra su información completa.
+- Buscar productos: busca un producto por su nombre y muestra su información completa.
 
-- ❌ Eliminar productos: elimina un producto de la lista a partir de su posición (número).
+- Eliminar productos: elimina un producto de la lista a partir de su posición (número).
 
-- 🚪 Salir del programa: finaliza la ejecución de forma segura.
+- Salir del programa: finaliza la ejecución de forma segura.
 
 🧩 Características técnicas
 
