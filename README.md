@@ -16,7 +16,6 @@ El objetivo es aplicar los conocimientos aprendidos sobre listas, bucles, condic
 
 - Salir del programa: finaliza la ejecución de forma segura.
 <br>
-<br>
 🧩 Características técnicas
 
 - Lenguaje: Python 3
