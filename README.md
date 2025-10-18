@@ -6,7 +6,7 @@ El objetivo es aplicar los conocimientos aprendidos sobre listas, bucles, condic
 <br>
 🧠 Funcionalidades principales
 
-- Agregar productos: permite ingresar nombre, categoría y precio (sin centavos).
+  - **Agregar:** permite ingresar nombre, categoría y precio
 
 - Mostrar productos: visualiza todos los productos registrados en forma ordenada y numerada.
 
