@@ -6,15 +6,11 @@ El objetivo es aplicar los conocimientos aprendidos sobre listas, bucles, condic
 <br>
 🧠 Funcionalidades principales
 
-  - **Agregar:** permite ingresar nombre, categoría y precio
-
-- Mostrar productos: visualiza todos los productos registrados en forma ordenada y numerada.
-
-- Buscar productos: busca un producto por su nombre y muestra su información completa.
-
-- Eliminar productos: elimina un producto de la lista a partir de su posición (número).
-
-- Salir del programa: finaliza la ejecución de forma segura.
+- **Agregar:** permite ingresar nombre, categoría y precio
+- **Mostrar productos**: visualiza todos los productos registrados en forma ordenada y numerada.
+- **Buscar productos**: busca un producto por su nombre y muestra su información completa.
+- **Eliminar productos**: elimina un producto de la lista a partir de su posición (número).
+- **Salir del programa**: finaliza la ejecución de forma segura.
 <br>
 🧩 Características técnicas
 
@@ -23,9 +19,6 @@ El objetivo es aplicar los conocimientos aprendidos sobre listas, bucles, condic
 - Uso de:
 
   - Listas para almacenar los productos
-
   - Bucles while y for
-
   - Condicionales if / else
-
   - Validaciones de datos de entrada
