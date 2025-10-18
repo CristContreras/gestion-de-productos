@@ -22,7 +22,10 @@ El objetivo es aplicar los conocimientos aprendidos sobre listas, bucles, condic
 
 - Uso de:
 
-  - Listas para almacenar los productos
-  - Bucles while y for
-  - Condicionales if / else
+  - Listas para almacenar los productos.
+    
+  - Bucles while y for.
+    
+  - Condicionales if / else.
+    
   - Validaciones de datos de entrada
