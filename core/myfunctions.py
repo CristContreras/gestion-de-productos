@@ -145,15 +145,22 @@ def obtener_producto(lista: list, nombre: str) -> list | None:
             return item
     return None
 
+def obtener_indice_producto(lista:list, nombre):
+    for i, item in enumerate(lista):
+        if item[0]==nombre:
+            return i
+    return None
+    
 
 def procesar_eliminar_producto(lista: list) -> None:
     print("4. Eliminar producto\n")
     if lista:
         nombre = pedir_string("Ingrese nombre del producto: ").strip().title()
-        sublista = obtener_producto(lista, nombre)
-        if sublista is not None:
-            eliminar_producto(lista, sublista)
-            print("\nProducto eliminador correctamente.")
+        #sublista = obtener_producto(lista, nombre)
+        indice_producto = obtener_indice_producto(lista, nombre)
+        if indice_producto is not None:
+            eliminar_producto(lista, indice_producto)
+            print("\nProducto eliminado correctamente.")
         else:
             print("No se encontro el producto")
     else:
@@ -162,5 +169,5 @@ def procesar_eliminar_producto(lista: list) -> None:
     volver_al_menu()
 
 
-def eliminar_producto(lista: list, producto: list) -> None:
-    lista.remove(producto)
+def eliminar_producto(lista: list, indice: int) -> None:
+    del lista[indice]
